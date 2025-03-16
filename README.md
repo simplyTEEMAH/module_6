@@ -1,6 +1,6 @@
 1. Assignment: Fashion MNIST Classification
 
-Using the Fashion MNIST dataset, use the Keras library in Python and R to classify images with profile images to target marketing for different products.
+- Using the Fashion MNIST dataset, classify images with profile images to target marketing for different products with the Keras library in Python and R.
 
 
 # 2. Description: 
